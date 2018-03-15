@@ -72,7 +72,3 @@ body {
     background-color: #FFF;
     color: #000;
   }
-  
-  .completed {
-    text-decoration: line-through;
-  }
