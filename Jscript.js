@@ -1,7 +1,6 @@
 var newI = document.getElementById("new-item");
 var add = document.getElementById("add-btn");
 var list = document.getElementById("my-list");
-var delAll = document.getElementById("delete-all-btn");
 var liItems = list.children
 
 for(i = 0 ; i < liItems.length ; i++){
